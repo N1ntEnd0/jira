@@ -1,8 +1,0 @@
-
-
-dead = 1000
-
-while dead > 0:
-  dead -= 7
-
-print(dead)
