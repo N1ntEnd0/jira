@@ -1,3 +1,4 @@
 export const printExample = () => {
-    console.log("Example")
+    console.log("Example");
+    alert("example");
 }
